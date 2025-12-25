@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Moves Like Jagger",
+  "base_artist": "Maroon 5",
+  "createdAt": "2025-12-25T17:34:58.246100Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moves Like Jagger",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/01_Moves_Like_Jagger_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moves Like Jagger - Live In Manchester",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_Moves_Like_Jagger_-_Live_In_Manchester_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (live in Manchester)",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/03_Moves_Like_Jagger_(live_in_Manchester)_Maroon_5.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (The Voice Performance)",
+      "artist": "Maroon 5 feat. Christina Aguilera",
+      "has_synced": true,
+      "path": "select/04_Moves_Like_Jagger_(The_Voice_Performance)_Maroon_5_feat._Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (studio Recording From the Voice Performance)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/05_Moves_Like_Jagger_(studio_Recording_From_the_Voice_Performance)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Moves Like Jagger",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": true,
+      "path": "select/06_Moves_Like_Jagger_The_Cooltrane_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (Soul Seekerz radio edit)",
+      "artist": "Maroon 5 feat Christina Aguilera",
+      "has_synced": true,
+      "path": "select/07_Moves_Like_Jagger_(Soul_Seekerz_radio_edit)_Maroon_5_feat_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (Soul Seekerz Radio Edit) Ft Maroon 5",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/08_Moves_Like_Jagger_(Soul_Seekerz_Radio_Edit)_Ft_Maroon_5_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 feat Christina Aguilera",
+      "has_synced": true,
+      "path": "select/09_Moves_Like_Jagger_Maroon_5_feat_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moves Like Jagger Ft Maroon 5",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/10_Moves_Like_Jagger_Ft_Maroon_5_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moves Like Jagger - Studio Recording From The Voice Performance",
+      "artist": "Maroon 5 feat Christina Aguilera",
+      "has_synced": true,
+      "path": "select/11_Moves_Like_Jagger_-_Studio_Recording_From_The_Voice_Performance_Maroon_5_feat_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moves Like Jagger - Studio Recording From The Voice Performance",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/12_Moves_Like_Jagger_-_Studio_Recording_From_The_Voice_Performance_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5, Christina Aguilera",
+      "has_synced": true,
+      "path": "select/13_Moves_Like_Jagger_Maroon_5,_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (Studio Recording From The Voice Performance)",
+      "artist": "Maroon 5, Christina Aguilera",
+      "has_synced": true,
+      "path": "select/14_Moves_Like_Jagger_(Studio_Recording_From_The_Voice_Performance)_Maroon_5,_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5/Christina Aguilera",
+      "has_synced": true,
+      "path": "select/15_Moves_Like_Jagger_Maroon_5_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 feat. Christina Aguilera",
+      "has_synced": true,
+      "path": "select/16_Moves_Like_Jagger_Maroon_5_feat._Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/17_Moves_Like_Jagger_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (Studio Recording From \"The Voice\" Performance)",
+      "artist": "Maroon 5, Christina Aguilera",
+      "has_synced": true,
+      "path": "select/18_Moves_Like_Jagger_(Studio_Recording_From__The_Voice__Performance)_Maroon_5,_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/pl_01_Moves_Like_Jagger_Maroon_5.txt"
+    }
+  ]
+}
